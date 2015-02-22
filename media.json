@@ -1,0 +1,857 @@
+[{
+    "media_id": 1,
+    "media_source_tags": [{
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 109,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "3",
+        "label": null
+    }, {
+        "tag_sets_id": 17,
+        "show_on_stories": null,
+        "tags_id": 6071565,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "word_cloud",
+        "tag": "include",
+        "label": null
+    }, {
+        "tag_sets_id": 17,
+        "show_on_stories": null,
+        "tags_id": 6729599,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "word_cloud",
+        "tag": "default",
+        "label": null
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8875027,
+        "show_on_media": 1,
+        "description": "Top U.S. mainstream media according Google Ad Planner's measure of unique monthly users.",
+        "tag_set": "collection",
+        "tag": "ap_english_us_top25_20100110",
+        "label": "U.S. Mainstream Media"
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8878390,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "collection",
+        "tag": "oped_project",
+        "label": null
+    }, {
+        "tag_sets_id": 1099,
+        "show_on_stories": null,
+        "tags_id": 8878416,
+        "show_on_media": 1,
+        "description": "A site that is a mainstream media outlet, such as The New York Times and The Washington Post; an online-only news outlet, such as Slate, Salon, or the Huffington Post; or a citizen journalism or non-profit news outlet, such as Global Voices or ProPublica",
+        "tag_set": "media_type",
+        "tag": "General Online News Media",
+        "label": "General News"
+    }],
+    "url": "http://nytimes.com",
+    "name": "New York Times",
+    "media_sets": [{
+        "media_sets_id": 1,
+        "name": "Top 25 Mainstream Media",
+        "description": "Top 25 mainstream media sources by monthly unique users from the U.S. according to the Google AdPlanner service."
+    }, {
+        "media_sets_id": 16959,
+        "name": "Top 25 Mainstream Medi",
+        "description": "top 25 mainstream media according to Google AdPlanner"
+    }, {
+        "media_sets_id": 20797,
+        "name": "OpEd Project",
+        "description": "OpEd Project"
+    }]
+}, {
+    "media_id": 2,
+    "media_source_tags": [{
+        "tag_sets_id": 4,
+        "show_on_stories": null,
+        "tags_id": 6,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "workflow",
+        "tag": "pmcheck",
+        "label": null
+    }, {
+        "tag_sets_id": 4,
+        "show_on_stories": null,
+        "tags_id": 7,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "workflow",
+        "tag": "hrcheck",
+        "label": null
+    }, {
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 18,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "7",
+        "label": null
+    }, {
+        "tag_sets_id": 17,
+        "show_on_stories": null,
+        "tags_id": 6071565,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "word_cloud",
+        "tag": "include",
+        "label": null
+    }, {
+        "tag_sets_id": 17,
+        "show_on_stories": null,
+        "tags_id": 6729599,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "word_cloud",
+        "tag": "default",
+        "label": null
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8875027,
+        "show_on_media": 1,
+        "description": "Top U.S. mainstream media according Google Ad Planner's measure of unique monthly users.",
+        "tag_set": "collection",
+        "tag": "ap_english_us_top25_20100110",
+        "label": "U.S. Mainstream Media"
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8878390,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "collection",
+        "tag": "oped_project",
+        "label": null
+    }, {
+        "tag_sets_id": 1099,
+        "show_on_stories": null,
+        "tags_id": 8878416,
+        "show_on_media": 1,
+        "description": "A site that is a mainstream media outlet, such as The New York Times and The Washington Post; an online-only news outlet, such as Slate, Salon, or the Huffington Post; or a citizen journalism or non-profit news outlet, such as Global Voices or ProPublica",
+        "tag_set": "media_type",
+        "tag": "General Online News Media",
+        "label": "General News"
+    }],
+    "url": "http://washingtonpost.com",
+    "name": "Washington Post",
+    "media_sets": [{
+        "media_sets_id": 1,
+        "name": "Top 25 Mainstream Media",
+        "description": "Top 25 mainstream media sources by monthly unique users from the U.S. according to the Google AdPlanner service."
+    }, {
+        "media_sets_id": 16959,
+        "name": "Top 25 Mainstream Medi",
+        "description": "top 25 mainstream media according to Google AdPlanner"
+    }, {
+        "media_sets_id": 20797,
+        "name": "OpEd Project",
+        "description": "OpEd Project"
+    }]
+}, {
+    "media_id": 3,
+    "media_source_tags": [{
+        "tag_sets_id": 4,
+        "show_on_stories": null,
+        "tags_id": 110,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "workflow",
+        "tag": "needs",
+        "label": null
+    }, {
+        "tag_sets_id": 4,
+        "show_on_stories": null,
+        "tags_id": 111,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "workflow",
+        "tag": "collection",
+        "label": null
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8878332,
+        "show_on_media": 1,
+        "description": "manually curated list of sites relating to sexual and reproductive health, collected in 2014",
+        "tag_set": "collection",
+        "tag": "srhr_20140527",
+        "label": "Sexual and Reproductive Health and Rights"
+    }, {
+        "tag_sets_id": 1099,
+        "show_on_stories": null,
+        "tags_id": 8878416,
+        "show_on_media": 1,
+        "description": "A site that is a mainstream media outlet, such as The New York Times and The Washington Post; an online-only news outlet, such as Slate, Salon, or the Huffington Post; or a citizen journalism or non-profit news outlet, such as Global Voices or ProPublica",
+        "tag_set": "media_type",
+        "tag": "General Online News Media",
+        "label": "General News"
+    }],
+    "url": "http://csmonitor.com",
+    "name": "Christian Science Monitor",
+    "media_sets": []
+}, {
+    "media_id": 4,
+    "media_source_tags": [{
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 5,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "1",
+        "label": null
+    }, {
+        "tag_sets_id": 4,
+        "show_on_stories": null,
+        "tags_id": 6,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "workflow",
+        "tag": "pmcheck",
+        "label": null
+    }, {
+        "tag_sets_id": 17,
+        "show_on_stories": null,
+        "tags_id": 6071565,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "word_cloud",
+        "tag": "include",
+        "label": null
+    }, {
+        "tag_sets_id": 17,
+        "show_on_stories": null,
+        "tags_id": 6729599,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "word_cloud",
+        "tag": "default",
+        "label": null
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8875027,
+        "show_on_media": 1,
+        "description": "Top U.S. mainstream media according Google Ad Planner's measure of unique monthly users.",
+        "tag_set": "collection",
+        "tag": "ap_english_us_top25_20100110",
+        "label": "U.S. Mainstream Media"
+    }, {
+        "tag_sets_id": 1099,
+        "show_on_stories": null,
+        "tags_id": 8878416,
+        "show_on_media": 1,
+        "description": "A site that is a mainstream media outlet, such as The New York Times and The Washington Post; an online-only news outlet, such as Slate, Salon, or the Huffington Post; or a citizen journalism or non-profit news outlet, such as Global Voices or ProPublica",
+        "tag_set": "media_type",
+        "tag": "General Online News Media",
+        "label": "General News"
+    }],
+    "url": "http://www.usatoday.com",
+    "name": "USA Today",
+    "media_sets": [{
+        "media_sets_id": 1,
+        "name": "Top 25 Mainstream Media",
+        "description": "Top 25 mainstream media sources by monthly unique users from the U.S. according to the Google AdPlanner service."
+    }, {
+        "media_sets_id": 16959,
+        "name": "Top 25 Mainstream Medi",
+        "description": "top 25 mainstream media according to Google AdPlanner"
+    }]
+}, {
+    "media_id": 6,
+    "media_source_tags": [{
+        "tag_sets_id": 4,
+        "show_on_stories": null,
+        "tags_id": 6,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "workflow",
+        "tag": "pmcheck",
+        "label": null
+    }, {
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 14,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "4",
+        "label": null
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8875027,
+        "show_on_media": 1,
+        "description": "Top U.S. mainstream media according Google Ad Planner's measure of unique monthly users.",
+        "tag_set": "collection",
+        "tag": "ap_english_us_top25_20100110",
+        "label": "U.S. Mainstream Media"
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8875460,
+        "show_on_media": 1,
+        "description": "Large collection of local California newspapers, collected from http://www.usnpl.com/canews.php in 2012-09.",
+        "tag_set": "collection",
+        "tag": "california_newspapers_20120914",
+        "label": "2012 California Newspapers"
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8878390,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "collection",
+        "tag": "oped_project",
+        "label": null
+    }, {
+        "tag_sets_id": 1099,
+        "show_on_stories": null,
+        "tags_id": 8878416,
+        "show_on_media": 1,
+        "description": "A site that is a mainstream media outlet, such as The New York Times and The Washington Post; an online-only news outlet, such as Slate, Salon, or the Huffington Post; or a citizen journalism or non-profit news outlet, such as Global Voices or ProPublica",
+        "tag_set": "media_type",
+        "tag": "General Online News Media",
+        "label": "General News"
+    }],
+    "url": "http://www.latimes.com/",
+    "name": "LA Times",
+    "media_sets": [{
+        "media_sets_id": 1,
+        "name": "Top 25 Mainstream Media",
+        "description": "Top 25 mainstream media sources by monthly unique users from the U.S. according to the Google AdPlanner service."
+    }, {
+        "media_sets_id": 16959,
+        "name": "Top 25 Mainstream Medi",
+        "description": "top 25 mainstream media according to Google AdPlanner"
+    }, {
+        "media_sets_id": 17650,
+        "name": "California Newspapers",
+        "description": "california newspapers"
+    }, {
+        "media_sets_id": 20797,
+        "name": "OpEd Project",
+        "description": "OpEd Project"
+    }]
+}, {
+    "media_id": 7,
+    "media_source_tags": [{
+        "tag_sets_id": 4,
+        "show_on_stories": null,
+        "tags_id": 6,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "workflow",
+        "tag": "pmcheck",
+        "label": null
+    }, {
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 16,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "5",
+        "label": null
+    }, {
+        "tag_sets_id": 17,
+        "show_on_stories": null,
+        "tags_id": 6071565,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "word_cloud",
+        "tag": "include",
+        "label": null
+    }, {
+        "tag_sets_id": 17,
+        "show_on_stories": null,
+        "tags_id": 6729599,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "word_cloud",
+        "tag": "default",
+        "label": null
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8875027,
+        "show_on_media": 1,
+        "description": "Top U.S. mainstream media according Google Ad Planner's measure of unique monthly users.",
+        "tag_set": "collection",
+        "tag": "ap_english_us_top25_20100110",
+        "label": "U.S. Mainstream Media"
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8875676,
+        "show_on_media": 0,
+        "description": "List of sites related to New York State politics.  Created by manually spidering related sites in 2012-10.",
+        "tag_set": "collection",
+        "tag": "newyork_jessie_manualspidering_20121023",
+        "label": "New York State Politics (manual)"
+    }, {
+        "tag_sets_id": 1099,
+        "show_on_stories": null,
+        "tags_id": 8878416,
+        "show_on_media": 1,
+        "description": "A site that is a mainstream media outlet, such as The New York Times and The Washington Post; an online-only news outlet, such as Slate, Salon, or the Huffington Post; or a citizen journalism or non-profit news outlet, such as Global Voices or ProPublica",
+        "tag_set": "media_type",
+        "tag": "General Online News Media",
+        "label": "General News"
+    }],
+    "url": "http://www.nypost.com/",
+    "name": "The New York Post",
+    "media_sets": [{
+        "media_sets_id": 1,
+        "name": "Top 25 Mainstream Media",
+        "description": "Top 25 mainstream media sources by monthly unique users from the U.S. according to the Google AdPlanner service."
+    }, {
+        "media_sets_id": 16959,
+        "name": "Top 25 Mainstream Medi",
+        "description": "top 25 mainstream media according to Google AdPlanner"
+    }]
+}, {
+    "media_id": 8,
+    "media_source_tags": [{
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 17,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "6",
+        "label": null
+    }, {
+        "tag_sets_id": 17,
+        "show_on_stories": null,
+        "tags_id": 6071565,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "word_cloud",
+        "tag": "include",
+        "label": null
+    }, {
+        "tag_sets_id": 17,
+        "show_on_stories": null,
+        "tags_id": 6729599,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "word_cloud",
+        "tag": "default",
+        "label": null
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8875027,
+        "show_on_media": 1,
+        "description": "Top U.S. mainstream media according Google Ad Planner's measure of unique monthly users.",
+        "tag_set": "collection",
+        "tag": "ap_english_us_top25_20100110",
+        "label": "U.S. Mainstream Media"
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8875676,
+        "show_on_media": 0,
+        "description": "List of sites related to New York State politics.  Created by manually spidering related sites in 2012-10.",
+        "tag_set": "collection",
+        "tag": "newyork_jessie_manualspidering_20121023",
+        "label": "New York State Politics (manual)"
+    }, {
+        "tag_sets_id": 1099,
+        "show_on_stories": null,
+        "tags_id": 8878416,
+        "show_on_media": 1,
+        "description": "A site that is a mainstream media outlet, such as The New York Times and The Washington Post; an online-only news outlet, such as Slate, Salon, or the Huffington Post; or a citizen journalism or non-profit news outlet, such as Global Voices or ProPublica",
+        "tag_set": "media_type",
+        "tag": "General Online News Media",
+        "label": "General News"
+    }],
+    "url": "http://www.nydailynews.com/",
+    "name": "The Daily News New York",
+    "media_sets": [{
+        "media_sets_id": 1,
+        "name": "Top 25 Mainstream Media",
+        "description": "Top 25 mainstream media sources by monthly unique users from the U.S. according to the Google AdPlanner service."
+    }, {
+        "media_sets_id": 16959,
+        "name": "Top 25 Mainstream Medi",
+        "description": "top 25 mainstream media according to Google AdPlanner"
+    }]
+}, {
+    "media_id": 9,
+    "media_source_tags": [{
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 25,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "8",
+        "label": null
+    }, {
+        "tag_sets_id": 17,
+        "show_on_stories": null,
+        "tags_id": 6071565,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "word_cloud",
+        "tag": "include",
+        "label": null
+    }, {
+        "tag_sets_id": 17,
+        "show_on_stories": null,
+        "tags_id": 6729599,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "word_cloud",
+        "tag": "default",
+        "label": null
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8875031,
+        "show_on_media": 0,
+        "description": "Technorati's list of top U.S. political blogs, unverified.",
+        "tag_set": "collection",
+        "tag": "technorati_uspolitics_20100709",
+        "label": "Technorati U.S. Political Blogs 2010 (unverified)"
+    }, {
+        "tag_sets_id": 1099,
+        "show_on_stories": null,
+        "tags_id": 8878416,
+        "show_on_media": 1,
+        "description": "A site that is a mainstream media outlet, such as The New York Times and The Washington Post; an online-only news outlet, such as Slate, Salon, or the Huffington Post; or a citizen journalism or non-profit news outlet, such as Global Voices or ProPublica",
+        "tag_set": "media_type",
+        "tag": "General Online News Media",
+        "label": "General News"
+    }],
+    "url": "http://www.chicagotribune.com/",
+    "name": "Chicago Tribune",
+    "media_sets": [{
+        "media_sets_id": 6112,
+        "name": "Technorati Politics Uncoded",
+        "description": null
+    }]
+}, {
+    "media_id": 10,
+    "media_source_tags": [{
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 19,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "9",
+        "label": null
+    }, {
+        "tag_sets_id": 1099,
+        "show_on_stories": null,
+        "tags_id": 8878416,
+        "show_on_media": 1,
+        "description": "A site that is a mainstream media outlet, such as The New York Times and The Washington Post; an online-only news outlet, such as Slate, Salon, or the Huffington Post; or a citizen journalism or non-profit news outlet, such as Global Voices or ProPublica",
+        "tag_set": "media_type",
+        "tag": "General Online News Media",
+        "label": "General News"
+    }],
+    "url": "http://www.chron.com/",
+    "name": "Houston Chronicle",
+    "media_sets": []
+}, {
+    "media_id": 11,
+    "media_source_tags": [{
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 20,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "10",
+        "label": null
+    }, {
+        "tag_sets_id": 1099,
+        "show_on_stories": null,
+        "tags_id": 8878416,
+        "show_on_media": 1,
+        "description": "A site that is a mainstream media outlet, such as The New York Times and The Washington Post; an online-only news outlet, such as Slate, Salon, or the Huffington Post; or a citizen journalism or non-profit news outlet, such as Global Voices or ProPublica",
+        "tag_set": "media_type",
+        "tag": "General Online News Media",
+        "label": "General News"
+    }],
+    "url": "http://www.azcentral.com/arizonarepublic/",
+    "name": "Arizona Republic",
+    "media_sets": []
+}, {
+    "media_id": 12,
+    "media_source_tags": [{
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 26,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "11",
+        "label": null
+    }, {
+        "tag_sets_id": 1099,
+        "show_on_stories": null,
+        "tags_id": 8878416,
+        "show_on_media": 1,
+        "description": "A site that is a mainstream media outlet, such as The New York Times and The Washington Post; an online-only news outlet, such as Slate, Salon, or the Huffington Post; or a citizen journalism or non-profit news outlet, such as Global Voices or ProPublica",
+        "tag_set": "media_type",
+        "tag": "General Online News Media",
+        "label": "General News"
+    }],
+    "url": "http://www.dallasnews.com/",
+    "name": "Dallas Morning News",
+    "media_sets": []
+}, {
+    "media_id": 13,
+    "media_source_tags": [{
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 27,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "12",
+        "label": null
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8875480,
+        "show_on_media": 1,
+        "description": "Small list of sites focus on New York state politics.  Created by googling for various related terms in 2012-10.",
+        "tag_set": "collection",
+        "tag": "newyork_alicia_google_20121003",
+        "label": "New York State Politics"
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8875676,
+        "show_on_media": 0,
+        "description": "List of sites related to New York State politics.  Created by manually spidering related sites in 2012-10.",
+        "tag_set": "collection",
+        "tag": "newyork_jessie_manualspidering_20121023",
+        "label": "New York State Politics (manual)"
+    }],
+    "url": "http://www.newsday.com/",
+    "name": "Newsday",
+    "media_sets": []
+}, {
+    "media_id": 14,
+    "media_source_tags": [{
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 21,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "13",
+        "label": null
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8875027,
+        "show_on_media": 1,
+        "description": "Top U.S. mainstream media according Google Ad Planner's measure of unique monthly users.",
+        "tag_set": "collection",
+        "tag": "ap_english_us_top25_20100110",
+        "label": "U.S. Mainstream Media"
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8875460,
+        "show_on_media": 1,
+        "description": "Large collection of local California newspapers, collected from http://www.usnpl.com/canews.php in 2012-09.",
+        "tag_set": "collection",
+        "tag": "california_newspapers_20120914",
+        "label": "2012 California Newspapers"
+    }, {
+        "tag_sets_id": 1099,
+        "show_on_stories": null,
+        "tags_id": 8878416,
+        "show_on_media": 1,
+        "description": "A site that is a mainstream media outlet, such as The New York Times and The Washington Post; an online-only news outlet, such as Slate, Salon, or the Huffington Post; or a citizen journalism or non-profit news outlet, such as Global Voices or ProPublica",
+        "tag_set": "media_type",
+        "tag": "General Online News Media",
+        "label": "General News"
+    }],
+    "url": "http://www.sfgate.com/",
+    "name": "San Francisco Chronicle",
+    "media_sets": [{
+        "media_sets_id": 1,
+        "name": "Top 25 Mainstream Media",
+        "description": "Top 25 mainstream media sources by monthly unique users from the U.S. according to the Google AdPlanner service."
+    }, {
+        "media_sets_id": 16959,
+        "name": "Top 25 Mainstream Medi",
+        "description": "top 25 mainstream media according to Google AdPlanner"
+    }, {
+        "media_sets_id": 17650,
+        "name": "California Newspapers",
+        "description": "california newspapers"
+    }]
+}, {
+    "media_id": 15,
+    "media_source_tags": [{
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 22,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "14",
+        "label": null
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8875027,
+        "show_on_media": 1,
+        "description": "Top U.S. mainstream media according Google Ad Planner's measure of unique monthly users.",
+        "tag_set": "collection",
+        "tag": "ap_english_us_top25_20100110",
+        "label": "U.S. Mainstream Media"
+    }, {
+        "tag_sets_id": 1099,
+        "show_on_stories": null,
+        "tags_id": 8878416,
+        "show_on_media": 1,
+        "description": "A site that is a mainstream media outlet, such as The New York Times and The Washington Post; an online-only news outlet, such as Slate, Salon, or the Huffington Post; or a citizen journalism or non-profit news outlet, such as Global Voices or ProPublica",
+        "tag_set": "media_type",
+        "tag": "General Online News Media",
+        "label": "General News"
+    }],
+    "url": "http://www.boston.com/bostonglobe/",
+    "name": "The Boston Globe",
+    "media_sets": [{
+        "media_sets_id": 16959,
+        "name": "Top 25 Mainstream Medi",
+        "description": "top 25 mainstream media according to Google AdPlanner"
+    }]
+}, {
+    "media_id": 16,
+    "media_source_tags": [{
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 23,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "15",
+        "label": null
+    }],
+    "url": "http://www.nj.com/starledger/",
+    "name": "The Star Ledger",
+    "media_sets": []
+}, {
+    "media_id": 17,
+    "media_source_tags": [{
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 24,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "16",
+        "label": null
+    }, {
+        "tag_sets_id": 5,
+        "show_on_stories": null,
+        "tags_id": 8875031,
+        "show_on_media": 0,
+        "description": "Technorati's list of top U.S. political blogs, unverified.",
+        "tag_set": "collection",
+        "tag": "technorati_uspolitics_20100709",
+        "label": "Technorati U.S. Political Blogs 2010 (unverified)"
+    }],
+    "url": "http://www.ajc.com/",
+    "name": "The Atlanta Journal Constitution",
+    "media_sets": [{
+        "media_sets_id": 6112,
+        "name": "Technorati Politics Uncoded",
+        "description": null
+    }]
+}, {
+    "media_id": 18,
+    "media_source_tags": [{
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 28,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "17",
+        "label": null
+    }],
+    "url": "http://www.philly.com/inquirer/",
+    "name": "Philadelphia Inquirer",
+    "media_sets": []
+}, {
+    "media_id": 19,
+    "media_source_tags": [{
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 13,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "18",
+        "label": null
+    }],
+    "url": "http://www.startribune.com/",
+    "name": "Star Tribune ",
+    "media_sets": []
+}, {
+    "media_id": 20,
+    "media_source_tags": [{
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 29,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "19",
+        "label": null
+    }],
+    "url": "http://www.plaindealer.com/",
+    "name": "The Plain Dealer",
+    "media_sets": []
+}, {
+    "media_id": 21,
+    "media_source_tags": [{
+        "tag_sets_id": 3,
+        "show_on_stories": null,
+        "tags_id": 30,
+        "show_on_media": 0,
+        "description": null,
+        "tag_set": "usnewspapercirculation",
+        "tag": "20",
+        "label": null
+    }, {
+        "tag_sets_id": 1099,
+        "show_on_stories": null,
+        "tags_id": 8878416,
+        "show_on_media": 1,
+        "description": "A site that is a mainstream media outlet, such as The New York Times and The Washington Post; an online-only news outlet, such as Slate, Salon, or the Huffington Post; or a citizen journalism or non-profit news outlet, such as Global Voices or ProPublica",
+        "tag_set": "media_type",
+        "tag": "General Online News Media",
+        "label": "General News"
+    }],
+    "url": "http://www.freep.com/apps/pbcs.dll/frontpage",
+    "name": "Detroit Free Press",
+    "media_sets": []
+}]
