@@ -10,8 +10,5 @@ if __name__ == "__main__":
 			command = {"index": {"_id": article['_id']}}
 			del article["_id"]
 
-			# temp
-			del article["multimedia"]
-
 			f.write(json.dumps(command) + "\n")
 			f.write(json.dumps(article) + "\n")
