@@ -1,9 +1,25 @@
 import os
 from flask import Flask
 from flask.ext.restful import reqparse, abort, Api, Resource
+from flask.ext.pymongo import PyMongo
+from flask import make_response
+from bson.json_util import dumps
+
+MONGO_URL = os.getenv('MONGO_URL', 'mongodb://localhost:27017/nyt')
 
 app = Flask(__name__)
+app.config['MONGO_URI'] = MONGO_URL
+app.config['DEBUG'] = True
+
+mongo = PyMongo(app)
 api = Api(app)
+
+def output_json(obj, code, headers=None):
+    resp = make_response(dumps(obj), code)
+    resp.headers.extend(headers or {})
+    return resp
+
+api.representations = {'application/json': output_json}
 
 from models import articles
 
