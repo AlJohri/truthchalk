@@ -12,3 +12,6 @@ createes:
 
 deletees:
 	curl -XDELETE 'http://localhost:9200/articles/'
+
+clean:
+	rm *.pyc
