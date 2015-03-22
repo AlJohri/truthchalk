@@ -5,10 +5,10 @@ from flask.ext.pymongo import PyMongo
 from flask import make_response
 from bson.json_util import dumps
 
-MONGO_URL = os.getenv('MONGO_URL', 'mongodb://localhost:27017/nyt')
+MONGOLAB_URI = os.getenv('MONGOLAB_URI', 'mongodb://localhost:27017/nyt')
 
 app = Flask(__name__)
-app.config['MONGO_URI'] = MONGO_URL
+app.config['MONGO_URI'] = MONGOLAB_URI
 app.config['DEBUG'] = True
 
 mongo = PyMongo(app)
