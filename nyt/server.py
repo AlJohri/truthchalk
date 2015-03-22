@@ -21,7 +21,7 @@ def output_json(obj, code, headers=None):
 
 api.representations = {'application/json': output_json}
 
-from models import articles
+# from models import articles
 
 # def abort_if_todo_doesnt_exist(todo_id):
 #     if todo_id not in TODOS:
@@ -35,7 +35,7 @@ parser.add_argument('task', type=str)
 class Article(Resource):
     def get(self, article_id):
         # abort_if_todo_doesnt_exist(article_id)
-        return articles.find_one(article_id)
+        return mongo.db.articles.find_one(article_id)
 
     # def delete(self, todo_id):
     #     abort_if_todo_doesnt_exist(todo_id)
@@ -53,7 +53,7 @@ class Article(Resource):
 #   shows a list of all todos, and lets you POST to add new tasks
 class ArticleList(Resource):
     def get(self):
-        return [x for x in articles.find()]
+        return [x for x in mongo.db.articles.find()]
 
     # def post(self):
     #     args = parser.parse_args()
@@ -64,7 +64,7 @@ class ArticleList(Resource):
 
 class SentenceList(Resource):
     def get(self):
-        return [y for y in [x['sentences'] for x in articles.find()]]
+        return [y for y in [x['sentences'] for x in mongo.db.articles.find()]]
 
 api.add_resource(SentenceList, '/sentences')
 api.add_resource(ArticleList, '/articles')
